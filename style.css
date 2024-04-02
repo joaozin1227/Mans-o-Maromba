@@ -40,6 +40,7 @@ body {
     }
     #profissao{
     padding: 24px 0;
+    background-image: linear-gradient(#9F70FD, #9b78e0);
     }
     
     .profissao-imagem{
